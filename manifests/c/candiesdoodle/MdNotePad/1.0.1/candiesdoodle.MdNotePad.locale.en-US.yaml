@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.28.0.schema.json
+
+PackageIdentifier: candiesdoodle.MdNotePad
+PackageVersion: 1.0.1
+PackageLocale: en-US
+Publisher: candiesdoodle
+PublisherUrl: https://github.com/candiesdoodle
+PublisherSupportUrl: https://github.com/candiesdoodle/mdnotepad/issues
+Author: candiesdoodle
+PackageName: MdNotePad
+PackageUrl: https://github.com/candiesdoodle/mdnotepad
+License: MIT
+LicenseUrl: https://github.com/candiesdoodle/mdnotepad/blob/HEAD/LICENSE
+Copyright: Copyright (c) 2026 candiesdoodle
+ShortDescription: A Notepad-style Markdown editor for Windows with formatting you can see while you type.
+Description: MdNotePad edits plain .md files in a Windows 11 Notepad look. Headings, bold, links, lists, quotes and code are shown formatted as you type, tables line up as a grid, and Mermaid diagrams are drawn in the editor. It has spell check, find and replace, tabs, an outline panel, Print and Save as PDF, Light, Dark, Paper and Neon themes, and a File Explorer preview pane for .md files. Native, with no web view, no account and no network use.
+Moniker: mdnotepad
+Tags:
+- editor
+- markdown
+- markdown-editor
+- mermaid
+- notepad
+- text-editor
+ReleaseNotesUrl: https://github.com/candiesdoodle/mdnotepad/releases/tag/v1.0.1
+ManifestType: defaultLocale
+ManifestVersion: 1.28.0
